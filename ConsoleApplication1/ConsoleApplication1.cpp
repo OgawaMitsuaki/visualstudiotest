@@ -7,6 +7,9 @@
 int main()
 {
 
+	s
+		s
+		s
 
 	srsrrs
 
